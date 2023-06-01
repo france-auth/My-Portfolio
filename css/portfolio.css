@@ -117,7 +117,7 @@ body.dark-theme{
 }
 
 
-/*==================== Color changes in some parts of the website, in lih=ght theme =================*/
+/*==================== Color changes in some parts of the website, in light theme =================*/
 .dark-theme .nav,
 .dark-theme .nav__menu,
 .dark-theme .scrollup{
@@ -164,7 +164,7 @@ svg{
 }
 
 .section{
-   padding-block: 2.5rem; 
+    padding-block: 2.5rem; 
 }
 .section__border{
     border-bottom: 1px solid var(--title-color);
@@ -217,7 +217,7 @@ main{
 .nav__logo,
 .nav__toggle,
 .nav__close{
-   color: var(--title-color); 
+    color: var(--title-color); 
 }
 
 .nav__logo{
